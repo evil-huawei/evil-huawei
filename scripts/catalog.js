@@ -17,7 +17,7 @@ const genCatalog = async () => {
     const templatePath = path.join(__dirname, '../README.template.md');
     const templateFile = await fsPromises.readFile(templatePath);
     const links = subDirs
-        .map((dir) => `- [${dir}](./events/${dir}/)`)
+        .map((dir) => `- [${dir}](./events/${dir.replace(/ /g, '%20')}/)`)
         .join('\n');
 
     const generatedDoc = templateFile.toString().replace('{{catelog_links}}', links);
