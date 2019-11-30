@@ -1,3 +1,4 @@
+<!-- This file is automatic generated, please edit template file instead. -->
 # Evil Huawei - 华为作过的恶 
 
 ## 简介

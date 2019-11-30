@@ -20,9 +20,10 @@ const genCatalog = async () => {
         .map((dir) => `- [${dir}](./events/${dir.replace(/ /g, '%20')}/)`)
         .join('\n');
 
+    const comment = '<!-- This file is automatic generated, please edit template file instead. -->';
     const generatedDoc = templateFile.toString().replace('{{catelog_links}}', links);
     const docPath = path.join(__dirname, '../README.md');
-    fsPromises.writeFile(docPath, generatedDoc);
+    fsPromises.writeFile(docPath, comment + '\n' + generatedDoc);
 };
 
 genCatalog();
