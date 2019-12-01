@@ -36,6 +36,9 @@
 Google Cache 截图：
 ![](./images/google-cache-1.png)
 
+Google Cache 快照：
+https://github.com/zhihu-huawei251/zhihu-huawei251/blob/master/2019.11.29%2007:30:07%20GMT%E7%BD%91%E9%A1%B5%E5%BF%AB%E7%85%A7.nojs.html
+
 - [如何看待前华为员工李某元被公司起诉敲诈，羁押251天后因证据不足重获自由？](https://www.zhihu.com/question/358526205/) （后续提问）
 - [华为离职员工被诉敲诈，关押251天，是真的吗？](https://www.zhihu.com/question/358572396) （后续提问）
 
