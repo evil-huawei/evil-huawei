@@ -13,5 +13,5 @@ Anandtech 对华为旗下荣耀子品牌的一款手机——荣耀 Play——�
 华为 P7 被 3DMark 发现跑分造假，列入排名黑名单。
 
 ## 参考资料
-- [多款手机因造假被跑分软件除名，华为：这样做的又不只我们](https://www.leiphone.com/news/201809/oTsZ6V11b3oP0ae6.html)
-- [HUAWEI ASCEND P7 DELISTED FROM 3DMARK RANKINGS](https://benchmarks.ul.com/news/huawei-ascend-p7-delisted-from-3dmark-rankings)
+- [多款手机因造假被跑分软件除名，华为：这样做的又不只我们](https://www.leiphone.com/news/201809/oTsZ6V11b3oP0ae6.html) ([archive1](https://web.archive.org/web/20191202115712/https://www.leiphone.com/news/201809/oTsZ6V11b3oP0ae6.html))
+- [HUAWEI ASCEND P7 DELISTED FROM 3DMARK RANKINGS](https://benchmarks.ul.com/news/huawei-ascend-p7-delisted-from-3dmark-rankings) ([archive1](https://web.archive.org/web/20191202115803/https://benchmarks.ul.com/news/huawei-ascend-p7-delisted-from-3dmark-rankings))

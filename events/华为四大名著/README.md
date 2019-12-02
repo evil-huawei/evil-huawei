@@ -114,4 +114,5 @@ D 从 2010 年 4 月 1 日开始专职投入电信世博新闻中心互联网项
 内容是从以下地址整理得到
 
 - [加满油的火车头为毛不跑了（4#真相帝泣诉 23#干死 HR 40#看在钱份上 50#无产假就辞职 ,通信人家园](http://www.txrjy.com/forum.php?mod=viewthread&tid=758708) (转载了两张可能为心声社区《火车头转》的讨论原贴截图：[1](./images/1.png)， [2](./images/2.png)）
-- [华为四大名著，任老板居然批示……滚天涯去！*北大纵横*传送门](https://chuansongme.com/n/1925582)
+- [华为四大名著，任老板居然批示……滚天涯去！*北大纵横*传送门](https://chuansongme.com/n/1925582) ([archive1](https://web.archive.org/web/20191202120558/https://chuansongme.com/n/1925582))
+- [加满油的火车头为什么不跑了？ ——从一个骨干的表现探讨价值评价和价值分配](http://www.wewehr.com/point/1360/) ([archive1](https://web.archive.org/web/20191202120441/http://www.wewehr.com/point/1360/))
