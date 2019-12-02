@@ -10,10 +10,9 @@
 华为道歉，并表示这是员工的个人行为，公司不知情。
 
 ## 相关资料
-- [华为碉堡了，在南苏丹伪造政府公文遭通缉](https://www.sohu.com/a/29903990_231413)
-- 【Web Archive】[Huawei Hacks The South Sudan Government And Forges Official Documents](https://web.archive.org/web/20141101082831/http://southsudantribune.org/626-huawei-hacks-the-south-sudan-government-and-forges-official-documents)
-- [Chinese Company, HUAWEI Technologies, Apologizes for “Malicious Practices” In South Sudan!](https://www.nyamile.com/2014/10/29/chinese-company-huawei-technologies-apologizes-for-malicious-practices-in-south-sudan/)
-- [South Sudan probes Chinese firm amid hacking allegations](http://www.sudantribune.com/spip.php?iframe&page=imprimable&id_article=52837)
+- [华为碉堡了，在南苏丹伪造政府公文遭通缉](http://www.sohu.com/a/29903990_231413) ([archive1](https://web.archive.org/web/20191202094857/http://www.sohu.com/a/29903990_231413))
+- [Chinese Company, HUAWEI Technologies, Apologizes for “Malicious Practices” In South Sudan!](https://www.nyamile.com/2014/10/29/chinese-company-huawei-technologies-apologizes-for-malicious-practices-in-south-sudan/) ([archive1](https://web.archive.org/web/20141101082831/http://southsudantribune.org/626-huawei-hacks-the-south-sudan-government-and-forges-official-documents))
+- [South Sudan probes Chinese firm amid hacking allegations](http://www.sudantribune.com/spip.php?iframe&page=imprimable&id_article=52837) ([archive1](https://web.archive.org/web/20191202124537/http://www.sudantribune.com/spip.php?iframe&page=imprimable&id_article=52837))
 - http://www.sudantribune.com/IMG/pdf/ministers_letter.pdf
 
 ![](./images/1.jpg)

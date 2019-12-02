@@ -20,4 +20,4 @@
 ![](./images/resp-1.jpg)  
 
 ## 参考资料
-- [如何看待华为 HR 胡玲于 2019.10.30 在华为内部论坛心声社区的发帖？](https://www.zhihu.com/question/353381490)
+- [如何看待华为 HR 胡玲于 2019.10.30 在华为内部论坛心声社区的发帖？](https://www.zhihu.com/question/353381490) ([archive1](https://web.archive.org/web/20191103045133/https://www.zhihu.com/question/353381490))
