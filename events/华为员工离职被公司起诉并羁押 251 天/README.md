@@ -31,7 +31,7 @@
 
 ## 参考资料
 基本已经 404，这里会尽量收集截图。
-- [如何看待网传华为员工李某元离职后被公司起诉敲诈勒索，羁押 251 天后因证据不足重获自由？](https://www.zhihu.com/question/358237309) （原问题，已 404，[Google Cache](http://webcache.googleusercontent.com/search?q=cache:u4RKmqAWRJwJ:https://www.zhihu.com/question/358237309&hl=en&strip=1&vwsrc=0) ）
+- [如何看待网传华为员工李某元离职后被公司起诉敲诈勒索，羁押 251 天后因证据不足重获自由？](https://www.zhihu.com/question/358237309) （原问题，已 404，[Google Cache](https://webcache.googleusercontent.com/search?q=cache:u4RKmqAWRJwJ:https://www.zhihu.com/question/358237309&hl=en&strip=1&vwsrc=0) ）
 
 Google Cache 截图：
 ![](./images/google-cache-1.png)

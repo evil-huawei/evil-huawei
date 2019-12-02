@@ -27,7 +27,7 @@
 ## 相关资料
 - [华为P10#硬件问题 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%BAP10#%E7%A1%AC%E4%BB%B6%E9%97%AE%E9%A2%98)
 - [华为P10闪存门 - 百度百科](https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAP10%E9%97%AA%E5%AD%98%E9%97%A8/20723765)
-- [华为P10销售遇冷，多项硬件缩水用户买了很气愤！](http://www.sohu.com/a/134323028_664847)
-- [华为P10偷工减料？用户法院起诉华为](http://www.sohu.com/a/138654038_162764)
+- [华为P10销售遇冷，多项硬件缩水用户买了很气愤！](https://www.sohu.com/a/134323028_664847)
+- [华为P10偷工减料？用户法院起诉华为](https://www.sohu.com/a/138654038_162764)
 - [网友投诉华为P10内存/闪存缩水，不同批次读写成绩悬殊](https://www.ithome.com/html/android/304739.htm)
 - [华为P10最新消息：余承东发文为华为P10疏油层、闪存门、WIFI门、内存门等正式道歉](http://www.elecfans.com/3g/news/20170427511870.html)
