@@ -25,9 +25,10 @@
 2017年5月16日，余承东以及他的团队首次召开了“华为手机开放日”，希望以开放、不躲避质疑的心态，接受媒体的提问，并且反思了此事件。
 
 ## 相关资料
-- [华为P10#硬件问题 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%BAP10#%E7%A1%AC%E4%BB%B6%E9%97%AE%E9%A2%98)
-- [华为P10闪存门 - 百度百科](https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAP10%E9%97%AA%E5%AD%98%E9%97%A8/20723765)
-- [华为P10销售遇冷，多项硬件缩水用户买了很气愤！](http://www.sohu.com/a/134323028_664847)
-- [华为P10偷工减料？用户法院起诉华为](http://www.sohu.com/a/138654038_162764)
-- [网友投诉华为P10内存/闪存缩水，不同批次读写成绩悬殊](https://www.ithome.com/html/android/304739.htm)
-- [华为P10最新消息：余承东发文为华为P10疏油层、闪存门、WIFI门、内存门等正式道歉](http://www.elecfans.com/3g/news/20170427511870.html)
+- [华为P10#硬件问题 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%BAP10#%E7%A1%AC%E4%BB%B6%E9%97%AE%E9%A2%98) ([archive1](https://web.archive.org/web/20191202115123/https://zh.wikipedia.org/wiki/%E5%8D%8E%E4%B8%BAP10))
+- [华为P10闪存门 - 百度百科](https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAP10%E9%97%AA%E5%AD%98%E9%97%A8/20723765) ([archive1](https://web.archive.org/web/20191202115142/https://baike.baidu.com/item/%E5%8D%8E%E4%B8%BAP10%E9%97%AA%E5%AD%98%E9%97%A8/20723765))
+- [华为P10销售遇冷，多项硬件缩水用户买了很气愤！](https://www.sohu.com/a/134323028_664847) ([archive1](https://web.archive.org/web/20191202115223/http://www.sohu.com/a/134323028_664847))
+- [华为P10偷工减料？用户法院起诉华为](https://www.sohu.com/a/138654038_162764) ([archive1](https://web.archive.org/web/20191202115342/http://www.sohu.com/a/138654038_162764))
+- [网友投诉华为P10内存/闪存缩水，不同批次读写成绩悬殊](https://www.ithome.com/html/android/304739.htm)  ([archive1](https://web.archive.org/web/20191202115414/https://www.ithome.com/html/android/304739.htm))
+- [华为P10最新消息：余承东发文为华为P10疏油层、闪存门、WIFI门、内存门等正式道歉](https://www.elecfans.com/3g/news/20170427511870.html) ([archive1](https://web.archive.org/web/20191202115431/http://www.elecfans.com/3g/news/20170427511870.html))
+- [如何评价大米的公众号因为揭发华为闪存门被封禁流量？](https://www.zhihu.com/question/59161586)

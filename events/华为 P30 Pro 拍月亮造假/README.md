@@ -15,5 +15,5 @@
 知乎网友经过试验，证实了 P30 Pro 会“无中生有”进行 P 月。
 
 ## 参考资料
-- [微博大V质疑华为P30 Pro拍月亮造假：评测不严谨 被公司开除](https://www.cnbeta.com/articles/tech/838135.htm)
-- [如何看待爱否科技前员工王跃琨称华为 P30 Pro 拍的月亮是 PS 的?](https://www.zhihu.com/question/319986727/answer/652664005)
+- [微博大V质疑华为P30 Pro拍月亮造假：评测不严谨 被公司开除](https://www.cnbeta.com/articles/tech/838135.htm) ([archive1](https://web.archive.org/web/20191202115618/https://www.cnbeta.com/articles/tech/838135.htm))
+- [如何看待爱否科技前员工王跃琨称华为 P30 Pro 拍的月亮是 PS 的?](https://www.zhihu.com/question/319986727/answer/652664005) ([archive1](https://web.archive.org/web/20191202115625/https://www.zhihu.com/question/319986727/answer/652664005))
