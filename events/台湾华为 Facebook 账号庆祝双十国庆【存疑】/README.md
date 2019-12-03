@@ -9,4 +9,5 @@
 
 ## 参考资料
 - [如何看待国产品牌华为庆祝双十国庆，为产品打上相关图片？](https://www.zhihu.com/question/58708541)
+- [尊重中国主权，攘外，必先安内](https://zhuanlan.zhihu.com/p/78227380)
 - [理性看待双十"国庆" 华为祝台湾生日快乐](https://m.sohu.com/n/423703552/) ([archive1](https://web.archive.org/web/20191202124016/https://m.sohu.com/n/423703552/))
