@@ -11,4 +11,6 @@
 
 在此之前，华为无线地区部前员工曾梦曾以社交账号“华为北非林夕”透露自己因离职赔偿被羁押90余天一事。今日，小财女联系到曾梦，试图重现他从被羁押到被释放的过程。
 
-https://mp.weixin.qq.com/s/XbpJ6muQhcFiNkEjhYvbmA
+[不止李洪元 华为又一前员工被羁押90天.pdf](https://github.com/evil-huawei/evil-huawei/files/3913027/90.pdf)
+
+参见https://finance.sina.com.cn/chanjing/gsnews/2019-12-02/doc-iihnzhfz3196220.shtml
