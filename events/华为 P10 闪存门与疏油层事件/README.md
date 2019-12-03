@@ -31,3 +31,4 @@
 - [华为P10偷工减料？用户法院起诉华为](https://www.sohu.com/a/138654038_162764) ([archive1](https://web.archive.org/web/20191202115342/http://www.sohu.com/a/138654038_162764))
 - [网友投诉华为P10内存/闪存缩水，不同批次读写成绩悬殊](https://www.ithome.com/html/android/304739.htm)  ([archive1](https://web.archive.org/web/20191202115414/https://www.ithome.com/html/android/304739.htm))
 - [华为P10最新消息：余承东发文为华为P10疏油层、闪存门、WIFI门、内存门等正式道歉](https://www.elecfans.com/3g/news/20170427511870.html) ([archive1](https://web.archive.org/web/20191202115431/http://www.elecfans.com/3g/news/20170427511870.html))
+- [如何评价大米的公众号因为揭发华为闪存门被封禁流量？](https://www.zhihu.com/question/59161586)
