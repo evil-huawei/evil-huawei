@@ -41,6 +41,7 @@ Google Cache 快照：
 
 - [如何看待前华为员工李某元被公司起诉敲诈，羁押251天后因证据不足重获自由？](https://www.zhihu.com/question/358526205/) （后续提问）
 - [华为离职员工被诉敲诈，关押251天，是真的吗？](https://www.zhihu.com/question/358572396) （后续提问）
+- [人民网: 华为的回应不是“法治”，而是 以势压人](http://yuqing.people.com.cn/n1/2019/1203/c209043-31487738.html)
 
 ## 相关项目
 - [zhihu-huawei251/zhihu-huawei251](https://github.com/zhihu-huawei251/zhihu-huawei251)
