@@ -81,5 +81,7 @@ Google Cache 快照：
 - [华为离职员工被诉敲诈，关押251天，是真的吗？](https://www.zhihu.com/question/358572396) （后续提问）
 - [人民网: 华为的回应不是“法治”，而是 以势压人](http://yuqing.people.com.cn/n1/2019/1203/c209043-31487738.html)
 - [华为余承东转发自媒体文章：251 事件美国是第一黑手](https://www.chainnews.com/articles/278153941576.htm)
+- [华为陈黎芳：华为针对李洪元事件声明不是以势压人](https://www.ithome.com/0/461/197.htm)
+
 ## 相关项目
 - [zhihu-huawei251/zhihu-huawei251](https://github.com/zhihu-huawei251/zhihu-huawei251)
