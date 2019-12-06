@@ -82,6 +82,7 @@ Google Cache 快照：
 - [人民网: 华为的回应不是“法治”，而是 以势压人](http://yuqing.people.com.cn/n1/2019/1203/c209043-31487738.html)
 - [华为余承东转发自媒体文章：251 事件美国是第一黑手](https://www.chainnews.com/articles/278153941576.htm)
 - [华为陈黎芳：华为针对李洪元事件声明不是以势压人](https://www.ithome.com/0/461/197.htm)
+- [【声音】后沙：华为一夜之间被“万炮齐轰”，但狐狸尾巴露得太快！](https://mp.weixin.qq.com/s?__biz=MzA3NTE5MzQzMA==&mid=2655087918&idx=1&sn=5f90231f3f83ad527230594090e71fe2)
 
 ## 相关项目
 - [zhihu-huawei251/zhihu-huawei251](https://github.com/zhihu-huawei251/zhihu-huawei251)
