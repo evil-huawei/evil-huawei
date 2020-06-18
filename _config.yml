@@ -1,1 +1,12 @@
+# Site settings
+title: Anti-Wawei
+description: 揭露华为做的恶
+
+url: http://anti-wawei.icu
+
+# User settings
+username: ScienceManiac
+user_description: ScienceManiac
+user_title: Anti-Wawei
+email: sciencemaniac@yandex.com
 theme: jekyll-theme-cayman
