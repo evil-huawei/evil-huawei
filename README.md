@@ -34,3 +34,6 @@
 - 尽可能的隐藏自己的真实身份，避免使用自己的真实 GitHub 账号提交 Issue 和 PR，做最坏的打算。
 - 如果不想通过 GitHub 在线的方式贡献，可以发送相关内容到 sciencemaniac@yandex.com。
 - 目前维护人力不足，如果有兴趣参与维护，可以发送 GitHub 账号到上面的邮箱。
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
